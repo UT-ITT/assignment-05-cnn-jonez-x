@@ -1,0 +1,155 @@
+{
+    "like_01": {
+        "bboxes": [
+            [
+                0.0562963,
+                0.51444444,
+                0.4162963,
+                0.38666667
+            ]
+        ],
+        "labels": [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "like_02": {
+        "bboxes": [
+            [
+                0.50666667,
+                0.43777778,
+                0.12444444,
+                0.12111111
+            ]
+        ],
+        "labels": [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "like_03": {
+        "bboxes": [
+            [
+                0.01925926,
+                0.22666667,
+                0.43111111,
+                0.42
+            ]
+        ],
+        "labels": [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "peace_01": {
+        "bboxes": [
+            [
+                0.02222222,
+                0.40333333,
+                0.42962963,
+                0.43333333
+            ]
+        ],
+        "labels": [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "peace_02": {
+        "bboxes": [
+            [
+                0.00888889,
+                0.29,
+                0.37925926,
+                0.44111111
+            ]
+        ],
+        "labels": [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "peace_03": {
+        "bboxes": [
+            [
+                0.33925926,
+                0.28333333,
+                0.15703704,
+                0.13111111
+            ]
+        ],
+        "labels": [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "rock_01": {
+        "bboxes": [
+            [
+                0.53333333,
+                0.24222222,
+                0.1762963,
+                0.10222222
+            ]
+        ],
+        "labels": [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "rock_02": {
+        "bboxes": [
+            [
+                0.04444444,
+                0.47555556,
+                0.41777778,
+                0.33888889
+            ]
+        ],
+        "labels": [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    },
+    "rock_03": {
+        "bboxes": [
+            [
+                0.00888889,
+                0.11888889,
+                0.57481481,
+                0.57888889
+            ]
+        ],
+        "labels": [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": ""
+    }
+}
